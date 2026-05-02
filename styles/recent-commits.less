@@ -11,6 +11,7 @@
   max-height: (@show-max * @size + @component-padding * @show-max + @component-padding + 1px);
   overflow-x: hidden;
   overflow-y: auto;
+  scrollbar-gutter: stable;
   border-top: 1px solid @base-border-color;
 
   &-list {
@@ -30,7 +31,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  padding: 0 @component-padding;
+  padding: 0 (@component-padding / 2) 0 @component-padding;
   line-height: (@size + @component-padding);
 
   &-authors {
