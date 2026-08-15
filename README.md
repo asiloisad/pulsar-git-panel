@@ -17,7 +17,7 @@ Fork of [github](https://github.com/pulsar-edit/github), but forge-agnostic Git 
 
 ## Installation
 
-To install, search for [git-panel](https://web.pulsar-edit.dev/packages/git-panel) in the Install pane of the Pulsar settings or run `ppm install git-panel`. Alternatively, run `ppm install asiloisad/pulsar-git-panel` to install directly from the GitHub repository.
+To install, search for [git-panel](https://web.pulsar-edit.dev/packages/git-panel) in the Install pane of the Pulsar settings or run `ppm install git-panel`. Alternatively, run `ppm install asiloisad-pulsar/git-panel` to install directly from the GitHub repository.
 
 **Note**: This package automatically disables the built-in `github` package to avoid conflicts.
 
