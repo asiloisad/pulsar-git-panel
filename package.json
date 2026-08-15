@@ -3,7 +3,7 @@
   "main": "./lib/index",
   "version": "1.6.2",
   "description": "A Git integration panel",
-  "repository": "https://github.com/asiloisad/pulsar-git-panel",
+  "repository": "https://github.com/asiloisad-pulsar/git-panel",
   "license": "MIT",
   "engines": {
     "atom": ">=1.132.0 <2.0.0"
